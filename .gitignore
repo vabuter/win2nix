@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.w2n.bak
+*.w2n.*.bak
+.w2n-tmp-*
